@@ -1,1 +1,2 @@
 # Chess-Bot
+# AI project
